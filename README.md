@@ -1,4 +1,4 @@
-#Title: Checkers Game in C++ Using Classes
+# Title: Checkers Game in C++ Using Classes
 
 
 This repository contains a checkers game implementation in C++, developed as an assignment for the CS112 course at GIKI. The game is played on an 8x8 board and features basic moves such as single diagonals, jumps, and kinging. The implementation uses object-oriented programming principles and class structures to represent the game state and game pieces.
